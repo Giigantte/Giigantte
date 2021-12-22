@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Giigantte
+- 👋 Hi, I’m João Victor
 - 👀 I’m interested in python
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on small projects
-- 📫 How to reach me @goodgame.py
+- 📫 How to reach me @j_victorsb
 - 
 <!---
 Giigantte/Giigantte is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
