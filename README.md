@@ -1,5 +1,5 @@
 - 👋 Hi, I’m João Victor
-- 👀 I’m interested in python
+- 👀 I’m interested in python, django, utilities of API.
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on small projects
 - 📫 How to reach me @j_victorsb
