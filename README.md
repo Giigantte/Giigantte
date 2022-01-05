@@ -1,4 +1,4 @@
-# Olá Dev
+# Olá Dev 🖖
 ***
 
 - 👋 Hi, I’m **João Victor**, my linkedin is [joaovictorsantosbrandao](https://www.linkedin.com/in/joaovictorsantosbrandao)
