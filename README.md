@@ -1,7 +1,7 @@
 # Olá Dev
 ***
 
-- 👋 Hi, I’m **João Victor**, my linkedin is [joaovictorsantosbrandao](www.linkedin.com/in/joaovictorsantosbrandao)
+- 👋 Hi, I’m **João Victor**, my linkedin is [joaovictorsantosbrandao](https://www.linkedin.com/in/joaovictorsantosbrandao)
 - 👀 I’m interested in python, django, utilities of API.
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on small projects
